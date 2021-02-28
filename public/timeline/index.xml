@@ -1,0 +1,30 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Timelines on Black History: March On</title>
+        <link>http://example.org/timeline/</link>
+        <description>Recent content in Timelines on Black History: March On</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
+        <atom:link href="http://example.org/timeline/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Black History in March?</title>
+            <link>http://example.org/timeline/black-history/</link>
+            <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+            
+            <guid>http://example.org/timeline/black-history/</guid>
+            <description>Black history still matters after Black History Month in February. I encourage people to keep learning about the important contributions Black people have made to the world. Unfortunately for some, the focus on the past may lead to ignoring the present realities of systemic racism and social injustices.
+As we acknowledge the past, we can also recognize Black history in the making. I want to dedicate this coming month to today&amp;rsquo;s Black pioneers who march on toward creating a brighter future for all people.</description>
+            <content type="html"><![CDATA[<p>Black history still matters after Black History Month in February. I encourage people to keep learning about the important contributions Black people have made to the world. Unfortunately for some, the focus on the past may lead to ignoring the present realities of systemic racism and social injustices.</p>
+<p>As we acknowledge the past, we can also recognize <strong>Black history in the making</strong>. I want to dedicate this coming month to today&rsquo;s Black pioneers who march on toward creating a brighter future for all people. I am a software developer, so I wanted to highlight Black people in STEAM disciplines that I find inspiring and offer ways to help future Black innovators.</p>
+<p>We must support Black people, especially in terms of education and career opportunities. <em>The Journal of Blacks in Higher Education</em> reported on the National Science Foundation&rsquo;s <a href="https://www.jbhe.com/2021/01/academic-disciplines-where-african-americans-received-few-or-no-doctorates-in-2019/"><em>Survey of Earned Doctorates</em></a>:</p>
+<blockquote>
+<p>African Americans earned only one percent of all doctorates awarded in physics to U.S. citizens and permanent residents. Blacks earned 3.2 percent of all mathematics and statistics doctorates, 3.4 percent of all doctorates in computer science, 3.5 percent of all doctorates in chemistry, and only 4.2 percent of all doctorates awarded in engineering disciplines.</p>
+</blockquote>
+<p>These sobering facts should not dim our hopes, but rather encourage us to rectify such persistent inequalities. The profiles and organizations I will cover this month are doing just that and need your help. Let&rsquo;s March On Together!</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>
