@@ -2,27 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://bhm-marchon.netlify.app/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bhm-marchon.netlify.app/timeline/rediet-abebe/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bhm-marchon.netlify.app/timeline/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bhm-marchon.netlify.app/posts/my-first-post/</loc>
     <lastmod>2021-02-28T00:10:29-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>https://bhm-marchon.netlify.app/posts/</loc>
     <lastmod>2021-02-28T00:10:29-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://bhm-marchon.netlify.app/tags/</loc>
     <lastmod>2021-02-28T00:10:29-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://bhm-marchon.netlify.app/tags/untagged/</loc>
     <lastmod>2021-02-28T00:10:29-06:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/untagged/</loc>
-    <lastmod>2021-02-28T00:10:29-06:00</lastmod>
-  </url><url>
-    <loc>http://example.org/timeline/black-history/</loc>
+    <loc>https://bhm-marchon.netlify.app/timeline/black-history/</loc>
     <lastmod>2021-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/timeline/</loc>
-    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://bhm-marchon.netlify.app/categories/</loc>
   </url>
 </urlset>

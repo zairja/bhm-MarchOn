@@ -1,19 +1,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Timelines on Black History: March On</title>
-        <link>http://example.org/timeline/</link>
+        <link>https://bhm-marchon.netlify.app/timeline/</link>
         <description>Recent content in Timelines on Black History: March On</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
-        <atom:link href="http://example.org/timeline/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
+        <atom:link href="https://bhm-marchon.netlify.app/timeline/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Rediet Abebe</title>
+            <link>https://bhm-marchon.netlify.app/timeline/rediet-abebe/</link>
+            <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+            
+            <guid>https://bhm-marchon.netlify.app/timeline/rediet-abebe/</guid>
+            <description>Rediet Abebe is an Ethiopian computer scientist working in algorithms and artificial intelligence. She is an Assistant Professor of Computer Science at the University of California, Berkeley and a Junior Fellow at the Harvard Society of Fellows.[1]
+On Dr. Abebe&amp;rsquo;s website, she describes her research interests:
+ My research broadly falls in the fields of algorithms and AI, with a focus on equity and justice concerns. My work has provided new mathematical and computational frameworks for problems related to poverty and inequality.</description>
+            <content type="html"><![CDATA[<p>Rediet Abebe is an Ethiopian computer scientist working in algorithms and artificial intelligence. She is an Assistant Professor of Computer Science at the University of California, Berkeley and a Junior Fellow at the Harvard Society of Fellows.<sup><a href="https://en.wikipedia.org/wiki/Rediet_Abebe">[1]</a></sup></p>
+<p><img src="/images/red2.jpg" alt="Rediet Abebe"></p>
+<p>On Dr. Abebe&rsquo;s <a href="https://www.cs.cornell.edu/~red/">website</a>, she describes her research interests:</p>
+<blockquote>
+<p>My research broadly falls in the fields of algorithms and AI, with a focus on equity and justice concerns. My work has provided new mathematical and computational frameworks for problems related to poverty and inequality. Specifically, I design and analyze algorithmic, optimization, and network-based techniques to improve access to opportunity for historically under-served and disadvantaged communities. I also work on human-centered approaches to mechanism design.</p>
+</blockquote>
+<p>Abebe has received multiple honors in the past few years. In 2019, Abebe was named one of <a href="https://www.technologyreview.com/lists/innovators-under-35/2019/">35 Innovators Under 35</a> by the MIT Technology Review. In 2020, Abebe received the <a href="https://www.kdd.org/awards/sigkdd-dissertation-award">ACM SIGKDD Dissertation Award</a>.</p>
+<h2 id="organizations">Organizations</h2>
+<p>Dr. Abebe co-founded <a href="https://blackinai.github.io/#/">Black in AI</a>, an international network focused on increasing the presence of Black people in artificial intelligence, along with <a href="https://www.md4sg.com/">Mechanism Design for Social Good</a>, a multi-institutional initiative that takes an interdisciplinary approach to improve access to opportunity for all and  tackle problems affecting marginalized groups around the world.</p>
+<h2 id="ways-to-contribute">Ways to Contribute</h2>
+<p><strong><a href="https://blackinai.github.io/#/">Black in AI</a> accepts donations via PayPal</strong> and partnerships with industrial sponsors. Their programs include mentoring, workshops, scholarships, and grants.</p>
+<h2 id="further-reading">Further Reading</h2>
+<p><a href="https://www.forbes.com/sites/insights-intelai/2018/11/29/why-ai-needs-to-reflect-society/">Why AI Needs To Reflect Society - Forbes Magazine</a></p>
+]]></content>
+        </item>
         
         <item>
             <title>Black History in March?</title>
-            <link>http://example.org/timeline/black-history/</link>
+            <link>https://bhm-marchon.netlify.app/timeline/black-history/</link>
             <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
             
-            <guid>http://example.org/timeline/black-history/</guid>
+            <guid>https://bhm-marchon.netlify.app/timeline/black-history/</guid>
             <description>Black history still matters after Black History Month in February. I encourage people to keep learning about the important contributions Black people have made to the world. Unfortunately for some, the focus on the past may lead to ignoring the present realities of systemic racism and social injustices.
 As we acknowledge the past, we can also recognize Black history in the making. I want to dedicate this coming month to today&amp;rsquo;s Black pioneers who march on toward creating a brighter future for all people.</description>
             <content type="html"><![CDATA[<p>Black history still matters after Black History Month in February. I encourage people to keep learning about the important contributions Black people have made to the world. Unfortunately for some, the focus on the past may lead to ignoring the present realities of systemic racism and social injustices.</p>

@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "C:/Hugo/Sites/blackhistorymarch.com",
+	"sourceRoot": "C:/Hugo/Sites/bhm-MarchOn",
 	"sources": [
 		"themes/timeline/assets/scss/main.scss",
 		"themes/timeline/assets/scss/_normalize.scss",
