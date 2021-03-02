@@ -2,6 +2,7 @@ baseURL = "https://blackhistorymarchon.com/"
 languageCode = "en-us"
 title = "Black History: March On"
 theme = "timeline"
+copyright = "Green Jay Collective"
 
 [markup]
   [markup.goldmark]
