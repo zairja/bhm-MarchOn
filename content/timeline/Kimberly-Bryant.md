@@ -2,7 +2,7 @@
 title: "Kimberly Bryant"
 date: 2021-03-02
 eventname: Engineer & Thought Leader
-eventlocation: "Field: Engineering / Biotech"
+eventlocation: "Fields: Engineering & Biotech"
 ---
 Kimberly Bryant is an engineer who worked 20+ years in the pharmaceutical and biotech industries. Born and raised in Memphis, Tennessee, Bryant attended Vanderbilt University in Nashville where she switched from civil engineering to an electrical engineering degree with minors in computer science and math.<sup>[\[1\]](https://en.wikipedia.org/wiki/Kimberly_Bryant_(technologist))</sup>
 
