@@ -1,7 +1,6 @@
 ---
 title: "J'Tia Hart"
 date: 2021-03-05
-draft: true
 eventname: Nuclear Researcher
 eventlocation: "Field: Nuclear Engineering"
 ---
