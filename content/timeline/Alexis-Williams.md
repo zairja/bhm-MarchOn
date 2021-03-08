@@ -20,6 +20,7 @@ Alexis is a Kode with Klossy alumnus. Kode with Klossy’s flagship program prov
 
 ## How To Contribute
 
+* [Bail Funds](https://www.pb-resources.com/bailFunds.html)
 * [Black Girls Code](https://www.blackgirlscode.com/)
 * [Kode With Klossy](https://www.kodewithklossy.com/get-involved)
 * [Girls Who Code](https://girlswhocode.com/)
